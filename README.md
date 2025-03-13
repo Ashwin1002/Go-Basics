@@ -2,6 +2,8 @@
 
 Pointer is a variable which stores memory address of another variable or data structure
 
+UTF stands for Unicode Transformation Foramt which is encoding standard used for electronic communication.
+
 ## Data Types
 
 ### Declaration
@@ -70,6 +72,9 @@ fmt.Println(a)
 ```
 
 Raw String literals can be used to create multiline strings but ignores special characters.
+
+In strings, 
+
 
 ### Arrays
 
