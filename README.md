@@ -85,4 +85,4 @@ Exmaple Slices or int:
 ### Maps
 Dictionary which stores data in key value pair.
 
-```map[string]string{"key1": "value1", "key2": "value2"}
+```map[string]string{"key1": "value1", "key2": "value2"}```å
